@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091435083786",
+    "firebase_url": "https://eldroid-final-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eldroid-final",
+    "storage_bucket": "eldroid-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091435083786:android:071523fb903973200047f3",
+        "android_client_info": {
+          "package_name": "com.example.eldroid_final_activity_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091435083786-eonku6qd9k2dqv30aroc2u0echb1m04h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZXLHhmz9AywoShZ2rzmqik8yP-SZ11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091435083786-eonku6qd9k2dqv30aroc2u0echb1m04h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
